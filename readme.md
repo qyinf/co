@@ -1,0 +1,3 @@
+利用logisim搭建Moore型和Mealy型状态机
+
+具体的文件遗失了Orz，所以这边先空着吧
